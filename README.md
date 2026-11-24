@@ -1,2 +1,2 @@
-# QR-CODE
+# qr-adavance-ordering
 ordering products
